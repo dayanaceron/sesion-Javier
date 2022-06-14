@@ -1,0 +1,18 @@
+#p1{
+    color: gold;
+}
+
+#p2{
+    color: darkgreen;
+}
+
+#p3{
+    color: crimson;
+}
+
+.colort{
+    color: rgb(28, 27, 27);
+    background:gold;
+    font-size: 55pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
